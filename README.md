@@ -270,7 +270,7 @@ npm run dev
 The project will start on:
 
 ```
-http://localhost:5173
+https://animeverse-gold.vercel.app
 ```
 
 ---
