@@ -240,7 +240,7 @@ AnimeVerse
 ### 1 Clone the repository
 
 ```
-git clone https://github.com/your-username/animeverse.git
+git clone https://github.com/DaviH007/AnimeVerse.git
 ```
 
 ---
