@@ -375,7 +375,7 @@ All anime content belongs to their respective creators and studios.
 
 # 👨‍💻 Author
 
-Developed by **Davi HDS**
+Developed by **DaviH007**
 
 Computer Science student focused on:
 
